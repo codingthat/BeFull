@@ -54,4 +54,8 @@ Todo list for source adopters:
 3. I remember someone saying that the first run load time is a bit scary because of the screen going blank during loading.  That could definitely be avoided.
 4. Support for the keyboard (besides quitting), text-only mode, many options, and treating queries as folders.
 5. The idea is someday there'll be a really quick way to launch BeFull from anywhere (single click, mouse gesture, or keyboard button, like perhaps a 104-key-keyboard special key.)  For now you can download SpicyKeys from BeBits, which works very well.  If you have a newer version of OpenDeskbar, the Be menu will still pop up in the background, but it doesn't really affect anything except that the mouse gets moved to the corner.
+6. Provide a compiled binary and screenshot of 0.04 (non-replicant) too.
 
+Here's what the non-fullscreen, Replicant Edition (0.05) looks like:
+
+![Replicant Edition screenshot](https://raw.githubusercontent.com/KevinField/BeFull/master/BeFull_0.05.png)
